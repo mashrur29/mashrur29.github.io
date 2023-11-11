@@ -26,4 +26,7 @@ Recent News
 Publications (\* = equal contribution)
 -----
 [2024] <p align="justify">Mashrur Rashik, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars”, Under Review at ACM Conference on Human Factors in Computing (CHI), 27 pages, 2024.</p>
+
 [2023] <p align="justify">Zhiqiu Jiang<sup>*</sup> , Mashrur Rashik<sup>*</sup> , Kunjal Panchal, Mahmood Jasim, Ali Sarvghad, Pari Riahi, Erica DeWitt, Fey Thurber, Narges Mahyar. “CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation”. ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 32 pages, 2023.</p>
+
+[2020] <p align="justify">Mashrur Rashik, Md. Musfiqur Rahman, Md. Mamun-or-Rashid, Md. Mosaddek Khan, Long Tran- Thanh, Nicholas R. Jennings. “Speeding Up Distributed Pseudo-tree Optimization Procedure with Cross Edge Consistency to Solve DCOPs”. Applied Intelligence, Springer Nature, October 10, 2020.</p>
