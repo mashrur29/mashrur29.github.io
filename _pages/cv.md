@@ -48,34 +48,13 @@ Honors and Awards
   
 Skills
 ======
-* Machine Learning Libraries
-  * Scikit Learn
-  * PyTorch
-  * TensorFlow
-  * Transformers
-  * Haystack
-* Programming Languages
-  * C/C++
-  * JAVA
-  * Javascript
-  * Python
-* Mobile Application Development
-  * Android
-* Database
-  * MySQL
-  * Oracle SQL
-  * MongoDB
-  * Firestore
-* Cloud Platform
-  * Google Firebase
-  * AWS
-* Web Server Programming
-  * JavaScript
-  * Flask
-  * FastApi
-* Development
-  * Software Design Pattern
-  * Git
+* Machine Learning Libraries: Scikit Learn, PyTorch, TensorFlow, Transformers, Haystack
+* Programming Languages: C/C++, Java, Python
+* Mobile Application Development: Android
+* Database: MySQL, Oracle SQL, MongoDB, Firestore
+* Cloud Platform: Google Firebase, AWS
+* Web Server Programming: JavaScript, Flask, FastApi
+* Development: Software Design Pattern, Git
 
 Publications
 ======
