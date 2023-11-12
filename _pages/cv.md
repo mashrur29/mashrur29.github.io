@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A pdf version of my resume is available [here](https://drive.google.com/file/d/1_f6Z4EJ2myo3b9kF8Wkox01T4Ar_ULyM/view?usp=sharing).<br>
+
 Education
 ======
 * B.S. in Computer Science and Engineering, GitHub University, 2012
