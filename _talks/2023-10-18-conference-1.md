@@ -4,7 +4,7 @@ collection: conference
 type: "Conference Presentation"
 permalink: /talks/2023-10-19-talk-1
 venue: "Hyatt Regency Minneapolis"
-date: 2023-10-19
+date: 2023-10-18
 location: "Minneapolis, MN USA"
 ---
 
