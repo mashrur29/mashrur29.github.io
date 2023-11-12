@@ -5,7 +5,10 @@ main:
     
   - title: "Software Projects"
     url: /software-projects/
-        
+
+  - title: "Talks"
+      url: /talks/
+
   - title: "Blog Posts"
     url: /year-archive/
     
