@@ -11,30 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Engineering, GitHub University, 2012
+* M.S. in Computer Science, University of Massachusetts Amherst, 2024 (expected)
+* Ph.D in Computer Science, University of Massachusetts Amherst, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2021 - Present: Graduate Research Assistant
+  * University of Massachusetts Amherst
+  * Designed and developed a journaling agent for patients with chronic illness
+  * Developed a categorization to map the existing design space of chatbot avatars
+  * Designed and developed a multi-agent chatbot for rich input elicitation (CSCW 2023)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2021 - Present: GraduateResearch Assistant
+  * University of Massachusetts Amherst
+  * CICS 210: Data Structures (Fall 2023)
+  * COMPSCI 325: Introduction to HCI (Fall 2021, Fall 2022)
+
+* June 2020 - July 2021: Software Engineer
+  * TigerIT Bangladesh Ltd
+  * Developed question-answering systems using a reader-retrieval model
+  * Implemented a kids learning chatbots in Rasa
+  * Finetuned a multilingual model (M2M100) on the English-Bengali dataset
+  * Worked on a Flask server to deploy ML models
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning Libraries
+  * Scikit Learn
+  * PyTorch
+  * TensorFlow
+  * Transformers
+  * Haystack
+* Programming Languages
+  * C/C++
+  * JAVA
+  * Javascript
+  * Python
+* Mobile Application Development
+  * Android
+* Database
+  * MySQL
+  * Oracle SQL
+  * MongoDB
+  * Firestore
+* Cloud Platform
+  * Google Firebase
+  * AWS
+* Web Server Programming
+  * JavaScript
+  * Flask
+  * FastApi
+* Development
+  * Software Design Pattern
+  * Git
 
 Publications
 ======
