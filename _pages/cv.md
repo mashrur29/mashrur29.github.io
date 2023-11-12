@@ -23,7 +23,7 @@ Work experience
   * Developed a categorization to map the existing design space of chatbot avatars
   * Designed and developed a multi-agent chatbot for rich input elicitation (CSCW 2023)
 
-* Sep 2021 - Present: GraduateResearch Assistant
+* Sep 2021 - Present: Graduate Teaching Assistant
   * University of Massachusetts Amherst
   * CICS 210: Data Structures (Fall 2023)
   * COMPSCI 325: Introduction to HCI (Fall 2021, Fall 2022)
@@ -34,6 +34,17 @@ Work experience
   * Implemented a kids learning chatbots in Rasa
   * Finetuned a multilingual model (M2M100) on the English-Bengali dataset
   * Worked on a Flask server to deploy ML models
+
+Honors and Awards
+======
+* 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research
+* 2022: Awarded Jim Gray Scholarship for Systems Research
+* 2019: Champion, Code Samurai Inter-University Hackathon
+* 2019: Awarded Bangabandhu Innovation Grant - 1 million BDT (11,000 USD)
+* 2019: Winners, Student to Startup, Chapter 2
+* 2018: 1st Runner Up, DUITS IT Festival
+* 2017: 21st Position, ACM-ICPC Asia Dhaka Regional Contest
+* 2017: 5th Position, City University Inter University Programming Contest
   
 Skills
 ======
