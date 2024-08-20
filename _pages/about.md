@@ -8,24 +8,27 @@ redirect_from:
   - /about.html
 ---
 <p align="justify"> 
-I am a 3rd year Computer Science MS/PhD student at the University of Massachusetts Amherst. My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the HCI-VIS Lab under the supervision of Dr. Narges Mahyar and Dr. Ali Sarvghad. At the HCI-VIS Lab, I have worked on building conversational systems for journaling and public informational elicitation. In addition to creating NLP systems, I am also interested in conversational interfaces and have worked on categorizing the literature on conversational agent avatars. Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd, working on Conversational AI and Machine Translation. I have a strong passion for problem-solving and software development alongside my research interests. During my undergraduate studies, I actively participated in competitive programming and was fortunate enough to win multiple hackathons.
+I am a 3rd year Computer Science MS/PhD student at the University of Massachusetts Amherst (UMass Amherst). My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the HCI-VIS Lab under the supervision of Dr. Narges Mahyar and Dr. Ali Sarvghad. At the HCI-VIS Lab, I have worked on building conversational systems for journaling and public informational elicitation. In addition to creating NLP systems, I am also interested in conversational interfaces and have worked on categorizing the literature on conversational agent avatars. Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd, working on Conversational AI and Machine Translation. I have a strong passion for problem-solving and software development alongside my research interests. During my undergraduate studies, I actively participated in competitive programming and was fortunate enough to win multiple hackathons.
 </p>
 
 
 Recent News
 ======
-1. Oct 2023: I am excited to be a reviewer for ACM CHI 2024
-2. Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research
-3. Nov 2022: Our CommunityBots paper was accepted to CSCW 2023
-4. Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024
-5. June 2022: Awarded Jim Gray Scholarship for Systems Research
-6. Sep 2021: Started my Ms/PhD at UMass Amherst
+1. May 2024: I completed my MSc in Computer Science from UMass Amherst. 
+2. May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now.
+3. May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
+4. Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
+5. Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research.
+6. Nov 2022: Our CommunityBots paper was accepted to CSCW 2023.
+7. Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024.
+8. June 2022: Awarded Jim Gray Scholarship for Systems Research.
+9. Sep 2021: Started my Ms/PhD at UMass Amherst.
 
 
 
 Publications (\* = equal contribution)
 ======
-<p align="justify">[2024] <b>Mashrur Rashik</b>, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars”, Under Review at ACM Conference on Human Factors in Computing (CHI), 27 pages, 2024.</p>
+<p align="justify">[2024] <b>Mashrur Rashik</b>, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars”, ACM conference on Designing Interactive Systems (DIS), 20 pages, 2024.</p>
 
 <p align="justify">[2023] Zhiqiu Jiang<sup>*</sup> , <b>Mashrur Rashik<sup>*</sup></b> , Kunjal Panchal, Mahmood Jasim, Ali Sarvghad, Pari Riahi, Erica DeWitt, Fey Thurber, Narges Mahyar. “CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation”. ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 32 pages, 2023.</p>
 
