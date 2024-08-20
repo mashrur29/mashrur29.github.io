@@ -13,7 +13,7 @@ My research primarily focuses on designing and developing conversational agents 
 </p>
 
 <p align="justify"> 
-At the HCI-VIS Lab, I have worked on building conversational systems for journaling and public informational elicitation. In addition to creating NLP systems, I am also interested in conversational interfaces and have worked on categorizing the literature on conversational agent avatars. Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd, working on Conversational AI and Machine Translation. I have a strong passion for problem-solving and software development alongside my research interests. During my undergraduate studies, I actively participated in competitive programming and was fortunate enough to win multiple hackathons.
+Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd, working on Conversational AI and Machine Translation. I have a strong passion for problem-solving and software development alongside my research interests. During my undergraduate studies, I actively participated in competitive programming and was fortunate enough to win multiple hackathons.
 </p>
 
 
