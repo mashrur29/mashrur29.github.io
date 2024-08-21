@@ -12,8 +12,8 @@ I am a 4th year Computer Science PhD Candidate at the University of Massachusett
 </p>
 
 <details>
-<summary>Read more about my work</summary>
-
+<summary><u>Read more about my work</u></summary>
+<br/>
 <p align="justify">
 With the growing popularity of AI-powered chatbots, new methods for data collection have emerged, where a chatbot converses with a human user to gather data. In this application domain, chatbots have demonstrated the potential to address the limitations of online surveys by reducing survey fatigue, increasing engagement, and enriching response quality. However, creating chatbots that can sustain conversations across multiple topics, determining which aspects of the conversational interface affect user experience, and effectively using conversational agents for long-term data collection presents significant technical and design challenges. My research aims to address these issues, focusing on improving functionality and investigating aspects of conversational agents' interfaces for data collection.
 </p>
@@ -32,7 +32,7 @@ Recent News
 - May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
 - Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
 <details>
-<summary>Older news</summary>
+<summary><u>Older news</u></summary>
 <ul>
   <li> Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research. </li>
   <li> Nov 2022: Our CommunityBots paper was accepted to CSCW 2023. </li>
