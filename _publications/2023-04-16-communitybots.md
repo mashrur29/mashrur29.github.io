@@ -1,4 +1,5 @@
 ---
+image: "CommunityBots.png"
 title: "CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation"
 collection: publications
 permalink: /publication/2023-04-16-communitybots
