@@ -27,11 +27,9 @@
     {% endif %}
 
     {% if post.image %}
-    <div class="archive__item-teaser">
-
-          <img src="{{ post.image }}" alt="">
-
-    </div>
+      <div class="w3-display-container">
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+      </div>
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
