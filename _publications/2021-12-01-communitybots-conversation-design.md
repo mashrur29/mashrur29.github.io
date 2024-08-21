@@ -1,0 +1,16 @@
+---
+title: "Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town"
+collection: publications
+permalink: /publication/2021-12-01-communitybots-conversation-design
+excerpt: 'The pandemic directly impacted the presence of the students from UMass and the surrounding colleges, but in disparate ways; while UMass students were sent home, the students from Amherst college and the other neighboring liberal arts colleges were provided some form of residency (still, extremely limited to a life within the confines of their small campuses). To investigate this phenomenon, our interdisciplinary team of architects and computer scientists began an investigatory process of tracking movement and mapping patterns of mobility as it is related to the unmeasured aspects of the pandemic. It is from these observations that our team set out to analyze the short-term and long-term effects of the pandemic, specifically regarding the residents of a small town. We had a special interest in studying issues related to mobility and access to collective resources and were invested in using our specialized ways of researching and individual interests in the built environment and digital civics to investigate larger patterns of how a major crisis and its social, economic, and cultural repercussions affect one’s sense of community, mobility, and social connectedness.'
+date: 2021-12-01
+venue: 'Environments By Design: Health, Wellbeing, and Place Conference'
+paperurl: 'https://par.nsf.gov/servlets/purl/10472695'
+citation: 'Dewitt, E. R. I. C. A. &quot;Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town.&quot; Environments By Design: Health, Wellbeing, and Place Conference. AMPS proceeding Series 26.2, 2022.'
+---
+
+<a href='https://par.nsf.gov/servlets/purl/10472695'>Download paper here</a>
+
+The pandemic directly impacted the presence of the students from UMass and the surrounding colleges, but in disparate ways; while UMass students were sent home, the students from Amherst college and the other neighboring liberal arts colleges were provided some form of residency (still, extremely limited to a life within the confines of their small campuses). To investigate this phenomenon, our interdisciplinary team of architects and computer scientists began an investigatory process of tracking movement and mapping patterns of mobility as it is related to the unmeasured aspects of the pandemic. It is from these observations that our team set out to analyze the short-term and long-term effects of the pandemic, specifically regarding the residents of a small town. We had a special interest in studying issues related to mobility and access to collective resources and were invested in using our specialized ways of researching and individual interests in the built environment and digital civics to investigate larger patterns of how a major crisis and its social, economic, and cultural repercussions affect one’s sense of community, mobility, and social connectedness.
+
+Recommended citation: Dewitt, E. R. I. C. A. "Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town." Environments By Design: Health, Wellbeing, and Place Conference. AMPS proceeding Series 26.2, 2022.
