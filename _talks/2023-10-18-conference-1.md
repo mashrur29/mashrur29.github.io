@@ -1,4 +1,5 @@
 ---
+image: "cscw.jpg"
 title: "CSCW 2023 Presentation of our CommunityBots Paper"
 collection: conference
 type: "Conference Presentation"
