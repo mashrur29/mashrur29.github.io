@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
+  - title: "Academic Research Projects"
+    url: /academic-research-projects/
+
   - title: "Software Projects"
     url: /software-projects/
 
