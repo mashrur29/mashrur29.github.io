@@ -8,14 +8,22 @@ redirect_from:
   - /about.html
 ---
 <p align="justify"> 
-I am a 4th year Computer Science PhD Candidate at the University of Massachusetts Amherst (UMass Amherst). My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the <a href="https://groups.cs.umass.edu/hci-vis/" target="_blank">HCI-VIS Lab</a> under the supervision of <a href="https://groups.cs.umass.edu/nmahyar/" target="_blank">Dr. Narges Mahyar</a> and <a href="https://groups.cs.umass.edu/asarv/" target="_blank">Dr. Ali Sarvghad</a>. 
-My research primarily focuses on designing and developing conversational agents to elicit rich input. With the growing popularity of AI-powered chatbots, new methods for data collection have emerged, where a chatbot converses with a human user to gather data. In this application domain, chatbots have demonstrated the potential to address the limitations of online surveys by reducing survey fatigue, increasing engagement, and enriching response quality. However, creating chatbots that can sustain conversations across multiple topics, determining which aspects of the conversational interface affect user experience, and effectively using conversational agents for long-term data collection presents significant technical and design challenges. My research aims to address these issues, focusing on improving functionality and investigating aspects of conversational agents' interfaces for data collection.
+I am a 4th year Computer Science PhD Candidate at the University of Massachusetts Amherst (UMass Amherst). My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the <a href="https://groups.cs.umass.edu/hci-vis/" target="_blank">HCI-VIS Lab</a> under the supervision of <a href="https://groups.cs.umass.edu/nmahyar/" target="_blank">Dr. Narges Mahyar</a> and <a href="https://groups.cs.umass.edu/asarv/" target="_blank">Dr. Ali Sarvghad</a>. My research primarily focuses on designing and developing conversational agents to elicit rich input.
 </p>
 
+<details>
+<summary>Read more about my work</summary>
+
+<p align="justify">
+With the growing popularity of AI-powered chatbots, new methods for data collection have emerged, where a chatbot converses with a human user to gather data. In this application domain, chatbots have demonstrated the potential to address the limitations of online surveys by reducing survey fatigue, increasing engagement, and enriching response quality. However, creating chatbots that can sustain conversations across multiple topics, determining which aspects of the conversational interface affect user experience, and effectively using conversational agents for long-term data collection presents significant technical and design challenges. My research aims to address these issues, focusing on improving functionality and investigating aspects of conversational agents' interfaces for data collection.
+</p>
 <p align="justify"> 
 Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd, working on Conversational AI and Machine Translation. I have a strong passion for problem-solving and software development alongside my research interests. During my undergraduate studies, I actively participated in competitive programming and was fortunate enough to win multiple hackathons.
 </p>
 
+</details>
+
+<br/>
 
 Recent News
 ======
@@ -25,7 +33,7 @@ Recent News
 - May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
 - Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
 <details>
-<summary>Older News</summary>
+<summary>Older news</summary>
 <ul>
   <li> Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research. </li>
   <li> Nov 2022: Our CommunityBots paper was accepted to CSCW 2023. </li>
