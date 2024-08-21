@@ -32,11 +32,6 @@
       </div>
     {% endif %}
 
-    {% if post.image and site.read_more == 'enabled' %}
-      <div class="custom-image-div">
-        <img src="{{ post.image | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }}">
-      </div>
-    {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
