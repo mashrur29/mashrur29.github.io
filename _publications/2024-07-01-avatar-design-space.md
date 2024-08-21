@@ -1,4 +1,5 @@
 ---
+image: "avatar_design.png"
 title: "Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars"
 collection: publications
 permalink: /publication/2024-07-01-avatar-design-space
