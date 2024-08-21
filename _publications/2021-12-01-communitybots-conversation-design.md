@@ -1,4 +1,5 @@
 ---
+image: "communitybots_conv_design.png"
 title: "Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town"
 collection: publications
 permalink: /publication/2021-12-01-communitybots-conversation-design
