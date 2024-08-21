@@ -26,12 +26,13 @@ Recent News
 - Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
 <details>
 <summary>Older News</summary>
-
-  - Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research.
-  - Nov 2022: Our CommunityBots paper was accepted to CSCW 2023.
-  - Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024.
-  - June 2022: Awarded Jim Gray Scholarship for Systems Research.
-  - Sep 2021: Started my Ms/PhD at UMass Amherst.
+<ul>
+  <li> Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research. </li>
+  <li> Nov 2022: Our CommunityBots paper was accepted to CSCW 2023. </li>
+  <li> Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024. </li>
+  <li> June 2022: Awarded Jim Gray Scholarship for Systems Research. </li>
+  <li> Sep 2021: Started my Ms/PhD at UMass Amherst. </li>
+</ul>
 
 </details>
 
