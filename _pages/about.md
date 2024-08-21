@@ -19,15 +19,16 @@ Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd,
 
 Recent News
 ======
-1. May 2024: I completed my MSc in Computer Science from UMass Amherst. 
-2. May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now.
-3. May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
-4. Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
-5. Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research.
-6. Nov 2022: Our CommunityBots paper was accepted to CSCW 2023.
-7. Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024.
-8. June 2022: Awarded Jim Gray Scholarship for Systems Research.
-9. Sep 2021: Started my Ms/PhD at UMass Amherst.
+1. June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. 
+2. May 2024: I completed my MSc in Computer Science from UMass Amherst. 
+3. May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now.
+4. May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
+5. Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
+6. Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research.
+7. Nov 2022: Our CommunityBots paper was accepted to CSCW 2023.
+8. Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024.
+9. June 2022: Awarded Jim Gray Scholarship for Systems Research.
+10. Sep 2021: Started my Ms/PhD at UMass Amherst.
 
 
 
