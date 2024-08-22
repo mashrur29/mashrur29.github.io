@@ -27,7 +27,7 @@
     {% endif %}
 
     {% if post.image %}
-      <div class="custom-image-div">
+      <div align="left" class="custom-image-div">
         <img src="{{ post.image | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }}">
       </div>
     {% endif %}
