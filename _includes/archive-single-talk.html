@@ -26,11 +26,7 @@
       </div>
     {% endif %}
 
-    {% if post.image %}
-      <div class="custom-image-div" style="width: 50%" align="left">
-        <img src="{{ post.image | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }}">
-      </div>
-    {% endif %}
+
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
@@ -39,6 +35,13 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.image %}
+      <div class="custom-image-div" style="width: 50%" align="left">
+        <img src="{{ post.image | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }}">
+      </div>
+    {% endif %}
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
