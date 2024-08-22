@@ -46,6 +46,24 @@ Recent News
 
 <br/>
 
+Selected Talks
+======
+<div class="selected-talks">
+  <div class="talk">
+    <div class="talk-video">
+      <iframe width="500" height="300" src="https://youtu.be/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="talk-description">
+      <h3>Talk Title</h3>
+      <p align="justify">
+        Description of the talk. You can elaborate on the topic discussed, key takeaways, and any other relevant details. This section should provide context and entice viewers to watch the video.
+      </p>
+    </div>
+  </div>
+</div>
+
+<br/>
+
 Publications (\* = equal contribution)
 ======
 <p align="justify">[2024] <b>Mashrur Rashik</b>, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “<a href="https://dl.acm.org/doi/abs/10.1145/3643834.3661563" target="_blank">Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars</a>”, ACM conference on Designing Interactive Systems (DIS), 20 pages, 2024.</p>

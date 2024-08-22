@@ -39,3 +39,36 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.selected-talks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.talk {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.talk-video {
+  flex: 1;
+  max-width: 500px;
+}
+
+.talk-description {
+  flex: 1;
+  padding-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .talk {
+    flex-direction: column;
+  }
+
+  .talk-description {
+    padding-left: 0;
+    margin-top: 15px;
+  }
+}
