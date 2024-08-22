@@ -46,17 +46,17 @@ Recent News
 
 <br/>
 
-Selected Talks
+Selected Talks Recordings
 ======
 <div class="selected-talks">
   <div class="talk">
     <div class="talk-video">
-      <iframe width="500" height="300" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="350" height="200" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="talk-description">
-      <h3>Talk Title</h3>
+      <h3>DIS 2024 Presentation</h3>
       <p align="justify">
-        Description of the talk. You can elaborate on the topic discussed, key takeaways, and any other relevant details. This section should provide context and entice viewers to watch the video.
+        Presentation of our DIS 2024 paper, "Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars."
       </p>
     </div>
   </div>
