@@ -51,7 +51,7 @@ Selected Talks Recordings
 <div class="selected-talks">
   <div class="talk">
     <div class="talk-video">
-      <iframe width="350" height="200" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="talk-description">
       <h3>DIS 2024 Presentation</h3>
