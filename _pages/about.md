@@ -25,6 +25,24 @@ Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd,
 
 <br/>
 
+Selected Talks Recordings
+======
+<div class="selected-talks">
+  <div class="talk">
+    <div class="talk-video">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="talk-description">
+      <h3>DIS 2024 Presentation</h3>
+      <p align="justify">
+        Presentation of our DIS 2024 paper, "Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars."
+      </p>
+    </div>
+  </div>
+</div>
+
+<br/>
+
 Recent News
 ======
 - June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. 
@@ -46,23 +64,7 @@ Recent News
 
 <br/>
 
-Selected Talks Recordings
-======
-<div class="selected-talks">
-  <div class="talk">
-    <div class="talk-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="talk-description">
-      <h3>DIS 2024 Presentation</h3>
-      <p align="justify">
-        Presentation of our DIS 2024 paper, "Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars."
-      </p>
-    </div>
-  </div>
-</div>
 
-<br/>
 
 Publications (\* = equal contribution)
 ======
