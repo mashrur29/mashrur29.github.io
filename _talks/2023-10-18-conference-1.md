@@ -14,4 +14,4 @@ I presented our CommunityBots paper at CSCW 2023.
 
 [You can find the conference schedule here](https://programs.sigchi.org/cscw/2023/program/session/124608)
 
-The conference slides are available [here](http://bit.ly/CBots_Slide).
+The presentation slides are available [here](http://bit.ly/CBots_Slide).
