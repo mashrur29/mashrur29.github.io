@@ -1,6 +1,6 @@
 ---
 image: "athletio_poster-1.png"
-title: "Athletio"
+title: "Athletio: An Android Based Fitness Application"
 excerpt: "An Android Based Fitness Application"
 collection: portfolio
 ---

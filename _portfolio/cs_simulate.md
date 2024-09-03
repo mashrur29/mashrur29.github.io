@@ -1,6 +1,6 @@
 ---
 image: "cs_simulate.png"
-title: "CS Simulator"
+title: "CS Simulator: A Web Based Algorithm Simulator"
 excerpt: "A Web Based Algorithm Simulator"
 collection: portfolio
 ---

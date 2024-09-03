@@ -1,6 +1,6 @@
 ---
 image: "search_engine.png"
-title: "Search Engine"
+title: "Search Engine: Desktop Application Using Java"
 excerpt: "Search Engine Using Java"
 collection: portfolio
 ---

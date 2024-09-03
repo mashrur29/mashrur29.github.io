@@ -1,6 +1,6 @@
 ---
 image: "xupri.png"
-title: "Xupri.com"
+title: "Xupri.com: An E-commerce Search Engine"
 excerpt: "An E-commerce Search Engine"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 image: "cs_classroom.png"
-title: "CS Classroom"
+title: "CS Classroom: A Web Based Classroom Management Application"
 excerpt: "A Web Based Classroom Management Application"
 collection: portfolio
 ---
