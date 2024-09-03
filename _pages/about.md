@@ -39,6 +39,18 @@ Selected Talks Recordings
       </p>
     </div>
   </div>
+
+  <div class="talk">
+    <div class="talk-video">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jE-Nhlx9i28?si=jlGlXZEOpBnt-isW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="talk-description">
+      <h3>CSCW 2023 Presentation</h3>
+      <p align="justify">
+        Presentation of our CSCW 2023 paper, "CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation."
+      </p>
+    </div>
+  </div>  
 </div>
 
 <br/>
