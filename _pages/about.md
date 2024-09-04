@@ -87,3 +87,16 @@ Publications (\* = equal contribution)
 <p align="justify">[2022] Erica Dewitt, Zhiqiu Jiang, <b>Mashrur Rashik</b>, Kunjal Panchal, Mahmood Jasim, Fey Thurber, Cami Quinteros, Ali Sarvghad, Narges Mahyar, Pari Riahi. “<a href="https://par.nsf.gov/servlets/purl/10472695" target="_blank">Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town</a>”. Environments By Design: Health, Wellbeing, and Place Conference AMPS proceeding Series, 10 pages, 2022. </p>
 
 <p align="justify">[2020] <b>Mashrur Rashik</b>, Md. Musfiqur Rahman, Md. Mamun-or-Rashid, Md. Mosaddek Khan, Long Tran- Thanh, Nicholas R. Jennings. “<a href="https://link.springer.com/article/10.1007/s10489-020-01860-8" target="_blank">Speeding Up Distributed Pseudo-tree Optimization Procedure with Cross Edge Consistency to Solve DCOPs</a>”. Applied Intelligence, Springer Nature, October 10, 2020.</p>
+
+
+Honors and Awards
+======
+- 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research
+- 2022: Awarded Jim Gray Scholarship for Systems Research
+- 2019: Awarded Merit Based Scholarship based on exceptional undergraduate result
+- 2019: Champion, Code Samurai Inter-University Hackathon
+- 2019: Awarded Bangabandhu Innovation Grant - 1 million BDT (11,000 USD)
+- 2019: Winners, Student to Startup, Chapter 2
+- 2018: 1st Runner Up, DUITS IT Festival
+- 2017: 21st Position, ACM-ICPC Asia Dhaka Regional Contest
+- 2017: 5th Position, City University Inter University Programming Contest
