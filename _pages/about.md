@@ -57,6 +57,7 @@ Selected Talks Recordings
 
 Recent News
 ======
+- Jan 2025: Our PATRIKA paper was accepted to CHI 2025.
 - June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. 
 - May 2024: I completed my MSc in Computer Science from UMass Amherst. 
 - May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now.
