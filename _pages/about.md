@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify"> 
-I am a 4th year Computer Science PhD Candidate at the University of Massachusetts Amherst (UMass Amherst). My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the <a href="https://groups.cs.umass.edu/hci-vis/" target="_blank">HCI-VIS Lab</a> under the supervision of <a href="https://groups.cs.umass.edu/nmahyar/" target="_blank">Dr. Narges Mahyar</a> and <a href="https://groups.cs.umass.edu/asarv/" target="_blank">Dr. Ali Sarvghad</a>. My research primarily focuses on designing and developing conversational agents to elicit rich input.
+I am a final year Computer Science PhD Candidate at the University of Massachusetts Amherst (UMass Amherst). My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the <a href="https://groups.cs.umass.edu/hci-vis/" target="_blank">HCI-VIS Lab</a> under the supervision of <a href="https://groups.cs.umass.edu/nmahyar/" target="_blank">Dr. Narges Mahyar</a> and <a href="https://groups.cs.umass.edu/asarv/" target="_blank">Dr. Ali Sarvghad</a>. My research primarily focuses on designing and developing conversational agents to elicit rich input.
 </p>
 
 <details>
@@ -81,6 +81,8 @@ Recent News
 
 Publications (\* = equal contribution)
 ======
+<p align="justify"> <b>Mashrur Rashik</b>, Shilpa Sweth, Nishtha Agrawal, Saiyyam Kochar, Kara M Smith, Fateme Rajabiyazdi, Vidya Setlur, Narges Mahyar, Ali Sarvghad, “<a href="https://doi.org/10.1145/3706598.3714280" target="_blank">AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking</a>”, ACM CHI conference on Human Factors in Computing Systems (CHI), 2025, to appear.</p>
+
 <p align="justify">[2024] <b>Mashrur Rashik</b>, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “<a href="https://dl.acm.org/doi/abs/10.1145/3643834.3661563" target="_blank">Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars</a>”, ACM conference on Designing Interactive Systems (DIS), 20 pages, 2024.</p>
 
 <p align="justify">[2023] Zhiqiu Jiang<sup>*</sup> , <b>Mashrur Rashik<sup>*</sup></b> , Kunjal Panchal, Mahmood Jasim, Ali Sarvghad, Pari Riahi, Erica DeWitt, Fey Thurber, Narges Mahyar. “<a href="https://dl.acm.org/doi/abs/10.1145/3579469" target="_blank">CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation</a>”. ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 32 pages, 2023.</p>
