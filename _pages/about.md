@@ -28,19 +28,7 @@ Before UMass, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd,
 Selected Talks Recordings
 ======
 <div class="selected-talks">
-<div class="talk">
-    <div class="talk-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/5UCfOhWbrWs?si=sT9k-B2lVs1dOujL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="talk-description">
-      <h3>CHI 2025 Presentation</h3>
-      <p align="justify">
-        Presentation of our CHI 2025 paper, "AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking."
-      </p>
-    </div>
-  </div>
-
-<div class="talk">
+  <div class="talk">
     <div class="talk-video">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/zVdTVdXjCJM?si=Ag_mnS49-AO_FKE3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -51,7 +39,6 @@ Selected Talks Recordings
       </p>
     </div>
   </div>
-
   <div class="talk">
     <div class="talk-video">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/jE-Nhlx9i28?si=jlGlXZEOpBnt-isW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
