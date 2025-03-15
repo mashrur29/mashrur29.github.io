@@ -1,11 +1,11 @@
 ---
-permalink: / title: "Hi!"
+permalink: /
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
-redirect_from:
-- /about/
-- /about.html
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 <p align="justify"> 
 I am a final year Computer Science PhD Candidate at the University of Massachusetts Amherst (UMass Amherst). My research interest lies in the intersections of <b>Human-Computer Interaction (HCI)</b> and <b>Natural Language Processing (NLP)</b>. I work in the <a href="https://groups.cs.umass.edu/hci-vis/" target="_blank">HCI-VIS Lab</a> under the supervision of <a href="https://groups.cs.umass.edu/nmahyar/" target="_blank">Dr. Narges Mahyar</a> and <a href="https://groups.cs.umass.edu/asarv/" target="_blank">Dr. Ali Sarvghad</a>. My research primarily focuses on designing and developing conversational agents to elicit rich input.
@@ -39,6 +39,7 @@ Selected Talks Recordings
       </p>
     </div>
   </div>
+
   <div class="talk">
     <div class="talk-video">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/jE-Nhlx9i28?si=jlGlXZEOpBnt-isW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -56,15 +57,12 @@ Selected Talks Recordings
 
 Recent News
 ======
-
 - Jan 2025: Our PATRIKA paper was accepted to CHI 2025.
-- June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media
-  Cloud.
-- May 2024: I completed my MSc in Computer Science from UMass Amherst.
+- June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. 
+- May 2024: I completed my MSc in Computer Science from UMass Amherst. 
 - May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now.
 - May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
 - Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
-
 <details>
 <summary><u>Older news</u></summary>
 <ul>
@@ -96,7 +94,6 @@ Publications (\* = equal contribution)
 
 Honors and Awards
 ======
-
 - 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research
 - 2022: Awarded Jim Gray Scholarship for Systems Research
 - 2019: Awarded Merit Based Scholarship based on exceptional undergraduate result
