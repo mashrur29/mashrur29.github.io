@@ -69,6 +69,7 @@ Selected Talks Recordings
 
 Recent News
 ======
+- Mar 2025: Our PATRIKA paper was awarded the Best Paper Honorable Mention Award at CHI 2025.
 - Jan 2025: Our PATRIKA paper was accepted to CHI 2025.
 - June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. 
 - May 2024: I completed my MSc in Computer Science from UMass Amherst. 
@@ -93,7 +94,7 @@ Recent News
 
 Publications (\* = equal contribution)
 ======
-<p align="justify">[2025] <b>Mashrur Rashik</b>, Shilpa Sweth, Nishtha Agrawal, Saiyyam Kochar, Kara M Smith, Fateme Rajabiyazdi, Vidya Setlur, Narges Mahyar, Ali Sarvghad, “<a href="https://arxiv.org/abs/2503.03532" target="_blank">AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking</a>”, ACM CHI conference on Human Factors in Computing Systems (CHI), 2025, to appear.</p>
+<p align="justify">[2025] <b>Mashrur Rashik</b>, Shilpa Sweth, Nishtha Agrawal, Saiyyam Kochar, Kara M Smith, Fateme Rajabiyazdi, Vidya Setlur, Narges Mahyar, Ali Sarvghad, “<a href="https://arxiv.org/abs/2503.03532" target="_blank">AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking</a>”, ACM CHI conference on Human Factors in Computing Systems (CHI), 2025, to appear. <span style="font-size: 1.5em;">&#127942;</span> <strong>Best Paper Honorable Mention Award</strong></p> 
 
 <p align="justify">[2024] <b>Mashrur Rashik</b>, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “<a href="https://dl.acm.org/doi/abs/10.1145/3643834.3661563" target="_blank">Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars</a>”, ACM conference on Designing Interactive Systems (DIS), 20 pages, 2024.</p>
 
