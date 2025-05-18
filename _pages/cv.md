@@ -13,9 +13,9 @@ A pdf version of my resume is available [here](https://drive.google.com/file/d/1
 
 Education
 ======
-* B.S. in Computer Science and Engineering, GitHub University, 2012
-* M.S. in Computer Science, University of Massachusetts Amherst, 2024 (expected)
-* Ph.D in Computer Science, University of Massachusetts Amherst, 2026 (expected)
+* Ph.D in Computer Science, University of Massachusetts Amherst, 2025 (expected)
+* M.S. in Computer Science, University of Massachusetts Amherst, 2024
+* B.S. in Computer Science and Engineering, University of Dhaka, 2019
 
 Work experience
 ======
