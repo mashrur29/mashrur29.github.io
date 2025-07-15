@@ -94,7 +94,9 @@ Recent News
 
 Publications (\* = equal contribution)
 ======
-<p align="justify">[2025] <b>Mashrur Rashik</b>, Shilpa Sweth, Nishtha Agrawal, Saiyyam Kochar, Kara M Smith, Fateme Rajabiyazdi, Vidya Setlur, Narges Mahyar, Ali Sarvghad, “<a href="https://arxiv.org/abs/2503.03532" target="_blank">AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking</a>”, ACM CHI conference on Human Factors in Computing Systems (CHI), 2025, to appear. <span style="font-size: 1.5em;">&#127942;</span> <strong>Best Paper Honorable Mention Award</strong></p> 
+<p align="justify">[2025] <b>Mashrur Rashik</b>, Jean-Daniel Fekete, Narges Mahyar, “<a href="#" target="_blank">CLAImate: AI-Enabled Climate Change Communication through Personalized and Localized Narrative Visualizations</a>”, IEEE Visualization and Visual Analytics (VIS), Short Paper, 2025, to appear.</p>
+
+<p align="justify">[2025] <b>Mashrur Rashik</b>, Shilpa Sweth, Nishtha Agrawal, Saiyyam Kochar, Kara M Smith, Fateme Rajabiyazdi, Vidya Setlur, Narges Mahyar, Ali Sarvghad, “<a href="https://arxiv.org/abs/2503.03532" target="_blank">AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking</a>”, ACM CHI conference on Human Factors in Computing Systems (CHI), 23 pages, 2025. <span style="font-size: 1.5em;">&#127942;</span> <strong>Best Paper Honorable Mention Award</strong></p> 
 
 <p align="justify">[2024] <b>Mashrur Rashik</b>, Mahmood Jasim, Kostiantyn Kucher, Ali Sarvghad, Narges Mahyar. “<a href="https://dl.acm.org/doi/abs/10.1145/3643834.3661563" target="_blank">Beyond Text and Speech in Conversational Agents: Mapping the Design Space of Avatars</a>”, ACM conference on Designing Interactive Systems (DIS), 20 pages, 2024.</p>
 
