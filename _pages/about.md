@@ -69,16 +69,17 @@ Selected Talks Recordings
 
 Recent News
 ======
+- Jul 2025: The system development and preliminary evaluation of CLAImate was accepted to VIS 2025 (short paper track).
 - Mar 2025: Our PATRIKA paper was awarded the Best Paper Honorable Mention Award at CHI 2025.
 - Jan 2025: Our PATRIKA paper was accepted to CHI 2025.
-- June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. 
-- May 2024: I completed my MSc in Computer Science from UMass Amherst. 
-- May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now.
-- May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024.
-- Oct 2023: I am excited to be a reviewer for ACM CHI 2024.
 <details>
 <summary><u>Older news</u></summary>
 <ul>
+  <li> June 2024: I am excited to start my summer internship as a Data Science for Common Good (DS4CG) Fellow with Media Cloud. </li>
+  <li> May 2024: I completed my MSc in Computer Science from UMass Amherst. </li>
+  <li> May 2024: I passed my PhD candidacy. I'm officially a PhD candidate now. </li>
+  <li> May 2024: Our work on categorizing the avatar design space was accepted to DIS 2024. </li>
+  <li> Oct 2023: I am excited to be a reviewer for ACM CHI 2024. </li>  
   <li> Oct 2023: Awarded Dr. Dave Lomet Graduate Scholarship for Systems Research. </li>
   <li> Nov 2022: Our CommunityBots paper was accepted to CSCW 2023. </li>
   <li> Aug 2022: I am excited to serve as the Web Chair for IEEE VIS 2023-2024. </li>
